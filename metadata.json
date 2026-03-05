@@ -1,0 +1,9 @@
+{
+  "name": "ÚT NỮ\u0027s Future Ver 3",
+  "description": "App for managing fleet, drivers, sales staff, and admin reports.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
